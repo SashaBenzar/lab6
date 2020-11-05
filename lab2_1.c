@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 
-int sumNP(const int arr[], int n);
-int sum(const int arr[], int n);
+int sumNP(const int arr[], int n); //1 задача
+int sum(const int arr[], int n); //2 задача
 int main(void) {
 int suma1,suma2;
 const int Low=-100, High=100; 
